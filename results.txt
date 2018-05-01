@@ -1,0 +1,96 @@
+			Unmodified LZW:
+
+File Name:		Original Size:			Compressed Size:		Ratio:
+
+all.tar			3,031,040 bytes			1,846,854 bytes			1.641190
+assig2.doc		87,040 bytes			74,574 bytes			1.167162
+bmps.tar		1,105,920 bytes			925,079 bytes			1.195487
+code.txt		72,351 bytes			30,980 bytes			2.335410
+code2.txt		57,701 bytes			24,138 bytes			2.390463
+edit.exe		236,328 bytes			250,742 bytes			0.942730
+frosty.jpg		126,748 bytes			177,453 bytes			0.714262
+gone_fishing.bmp	17,336 bytes			9,278 bytes			1.868506
+large.txt		1,220,703 bytes			605,184 bytes			2.017077
+Lego-big.gif		93,371 bytes			128,973 bytes			0.723958
+medium.txt		25,407 bytes			13,197 bytes			1.925210
+texts.tar		1,382,400 bytes			663,552 bytes			2.083333
+wacky.bmp		921,654 bytes			4,302 bytes			214.2385
+winnt256.bmp		157,044 bytes			159,050 bytes			0.987388
+
+
+			MyLZW (Do Nothing Mode):
+
+File Name:		Original Size:			Compressed Size:		Ratio:
+
+all.tar			3,031,040 bytes			1,792,782 bytes			1.690691
+assig2.doc		87,040 bytes			40,040 bytes			2.173826
+bmps.tar		1,105,920 bytes			80,914 bytes			13.66784		
+code.txt		72,351 bytes			24,545 bytes			2.947688
+code2.txt		57,701 bytes			20,516 bytes			2.812488
+edit.exe		236,328 bytes			156,410 bytes			1.510952
+frosty.jpg		126,748 bytes			163,790 bytes			0.773845
+gone_fishing.bmp	17,336 bytes			8,963 bytes			1.934174
+large.txt		1,220,703 bytes			172,032 bytes			7.095790
+Lego-big.gif		93,371 bytes			122,494 bytes			0.762250
+medium.txt		25,407 bytes			12,531 bytes			2.027532
+texts.tar		1,382,400 bytes			597,848 bytes			2.312293
+wacky.bmp		921,654 bytes			3,952 bytes			233.2120
+winnt256.bmp		157,044 bytes			62,932 bytes			2.495455
+
+			MyLZW (Reset Mode):
+
+File Name:		Original Size:			Compressed Size:		Ratio:
+
+all.tar			3,031,040 bytes			1,178,221 bytes			2.572556
+assig2.doc		87,040 bytes			40,040 bytes			2.173826
+bmps.tar		1,105,920 bytes			80,914 bytes			13.66784
+code.txt		72,351 bytes			24,545 bytes			2.947688
+code2.txt		57,701 bytes			20,516 bytes			2.812488
+edit.exe		236,328 bytes			152,227 bytes			1.552471
+frosty.jpg		126,748 bytes			171,170 bytes			0.740480
+gone_fishing.bmp	17,336 bytes			8,963 bytes			1.934174
+large.txt		1,220,703 bytes			527,506 bytes			2.314103
+Lego-big.gif		93,371 bytes			122,494 bytes			0.762250
+medium.txt		25,407 bytes			12,531 bytes			2.027532
+texts.tar		1,382,400 bytes			590,475 bytes			2.341166
+wacky.bmp		921,654 bytes			3,952 bytes			233.2120
+winnt256.bmp		157,044 bytes			62,932 bytes			2.495455
+
+			MyLZW (Monitor Mode):
+
+File Name:		Original Size:			Compressed Size:		Ratio:
+
+all.tar			3,031,040 bytes			1,318,912 bytes			2.298137
+assig2.doc		87,040 bytes			40,040 bytes			2.173826	
+bmps.tar		1,105,920 bytes			80,914 bytes			13.66784
+code.txt		72,351 bytes			24,545 bytes			2.947688
+code2.txt		57,701 bytes			20,516 bytes			2.812488
+edit.exe		236,328 bytes			156,410 bytes			1.510952
+frosty.jpg		126,748 bytes			163,790 bytes			0.773845
+gone_fishing.bmp	17,336 bytes			8,963 bytes			1.934174
+large.txt		1,220,703 bytes			501,778 bytes			2.432755
+Lego-big.gif		93,371 bytes			122,494 bytes			0.762250
+medium.txt		25,407 bytes			12,531 bytes			2.027532
+texts.tar		1,382,400 bytes			548,864 bytes			2.518657
+wacky.bmp		921,654 bytes			3,952 bytes			233.2120
+winnt256.bmp		157,044 bytes			62,932 bytes			2.495455
+
+			[7-Zip]:
+
+File Name:		Original Size:			Compressed Size:		Ratio:
+	
+all.tar			3,031,040 bytes			932,868 bytes			3.241628
+assig2.doc		87,040 bytes			22,939 bytes			3.794411
+bmps.tar		1,105,920 bytes			58,429 bytes			18.92759	
+code.txt		72,351 bytes			14,657 bytes			4.936276		
+code2.txt		57,701 bytes			12,997 bytes			4.439563		
+edit.exe		236,328 bytes			121,117 bytes			1.951237		
+frosty.jpg		126,748 bytes			126,808 bytes			0.999527
+gone_fishing.bmp	17,336 bytes			8,524 bytes			2.033787
+large.txt		1,220,703 bytes			471,858 bytes			2.587013
+Lego-big.gif		93,371 bytes			92,641 bytes			1.007880
+medium.txt		25,407 bytes			10,636 bytes			2.388774
+texts.tar		1,382,400 bytes			509,540 bytes			2.713035
+wacky.bmp		921,654 bytes			3,316 bytes			277.9415
+winnt256.bmp		157,044 bytes			46,337 bytes			3.389171
+
